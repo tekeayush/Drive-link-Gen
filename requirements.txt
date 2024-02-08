@@ -1,0 +1,10 @@
+aiohttp
+cloudscraper
+bs4
+lxml
+urllib3
+requests
+cloudscraper
+TgCrypto
+python-dotenv
+pyrogram
